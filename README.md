@@ -2,8 +2,6 @@
 
 A professional, feature-rich C# application designed to manage and host standard 75-ball Bingo games. This desktop app provides a real-time digital 'flashboard' for both hosts and players, tracking called numbers, patterns, and game history.
 
-![Application Flashboard Screenshot](image_0.png)
-
 ---
 
 ## 📋 Overview
